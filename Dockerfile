@@ -1,5 +1,5 @@
 FROM python:3.8.2-slim-buster
-RUN apt update & apt -y upgrade
+RUN apt-cache update & apt-cache -y upgrade
 
 
 ENV PYTHONDONTWRITEBYTECODE 1
