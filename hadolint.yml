@@ -1,5 +1,5 @@
 ignored:
-  - DL3005
+  - DL3008
   - SC1010
 
 trustedRegistries:
