@@ -1,4 +1,4 @@
-FROM python:3.8-alpine
+FROM python:3.8-buster
 
 ENV PYTHON_VERSION 3.8.7
 ENV PYTHON_PIP_VERSION 21.0.1
