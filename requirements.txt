@@ -12,7 +12,7 @@ cloudbiolinux==0.1
 contrib==0.3.0
 cryptography==3.4.4
 cycler==0.10.0
-Django==3.1.6
+Django==4.2.21
 django-simple-templates==0.7.1
 fabric==2.6.0
 Flask==1.1.2
@@ -39,3 +39,4 @@ PyYAML==5.4.1
 six==1.15.0
 sqlparse==0.4.1
 Werkzeug==1.0.1
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
